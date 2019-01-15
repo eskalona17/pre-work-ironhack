@@ -1,0 +1,141 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 50px;
+  }
+
+  .navbar-expand-lg{
+    color: white;
+  }
+
+  .navbar-expand-md {
+    
+    color: rgba(255,255,255,0.8);
+  }
+
+  .navbar-expand-md a{
+    width: 5%;
+  }
+
+  .navbar-brand{
+    color: white !important;
+  }
+
+  .navbar2{
+    background: rgb(32, 101, 136);
+  }
+
+  .navbar-brand2{
+    width: 100px !important;
+  }
+
+  .nav-link{
+    color: white !important;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .searchbar input{
+    background-color: rgb(32, 101, 136);
+  }
+
+  .fa-search{
+    color: white;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .flying img {
+    width: 100%;
+  }
+
+  .subcontent button{
+    padding: 5px 50px 5px 50px;
+    border-radius: 20px;
+    background-color: rgb(240, 146, 51);  
+  }
+
+  .subcontent{
+    color: white;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  section{
+      padding: 100px 0;
+      background: rgb(32, 101, 136);
+  }
+
+  .signup img{
+    width: 30%;
+  }
+
+  .logo{
+    margin-left: 15px;
+  }
+
+  .logo img{
+    width: 100%;
+  }
+
+  .searchbar input{
+    width: 50%;
+  }
+
+  .title{
+      text-align: center;
+  }
+
+  .content-2{
+    background-color: rgb(39, 53, 71);
+    color: white;
+  }
+
+  .content-2 button{
+    border-radius: 30px;
+    background-color: rgb(203, 56, 55);
+    color: white;
+  }
+
+  .content-3{
+    background-image: url(../images/forklift.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 450px;
+  }
+
+  .content-3 button{
+    border-radius: 30px;
+    background-color: rgb(203, 56, 55);
+    color: white;
+  }
+
+  .content-4{
+      background-color: #fff;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .navbar2{
+      display: none !important;
+    }
+    .main-title{
+        text-align: center !important;
+    }
+  }
